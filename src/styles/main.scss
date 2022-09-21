@@ -1,0 +1,12 @@
+$bgcolor: lightblue;
+$textcolor: darkblue;
+$fontsize: 18px;
+
+body {
+  background-color: $bgcolor;
+  color: $textcolor;
+  font-size: $fontsize;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
